@@ -2,7 +2,7 @@ import random
 import matplotlib.pyplot as plt
 
 
-# ---- Choose 6 different values of n ----
+# Choose 6 different values of n 
 n_values = [10, 50, 100, 500, 1000, 2000]
 
 
